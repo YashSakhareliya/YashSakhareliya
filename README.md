@@ -14,45 +14,46 @@ Hi, I'm **Yash Sakhareliya**, an aspiring developer and tech enthusiast passiona
 
 ## 💻 Key Projects
 
-### **📂 [Student Performance Indicator](https://github.com/YashSakhareliya/Student_performance_indicator):**  
-A comprehensive application analyzing student data to predict academic performance.  
-- Leverages advanced Machine Learning techniques for predictions.  
-- Visualizes trends and insights to assist in academic planning.  
+### 📂 [LearningML](https://github.com/YashSakhareliya/LearningML)  
+A repository documenting my journey into **Machine Learning**. It includes:
+- Practical implementations of ML algorithms.
+- Exploratory Data Analysis (EDA) examples.
+- Resources and notes to help others learn.
 
-### 📂 Object Detection Model  
-A project focusing on identifying and classifying objects in images or videos.  
-- Built using popular frameworks like TensorFlow and OpenCV.  
-- Designed for real-world applications like surveillance and automation.  
+### 📚 Library Information System  
+Developing a full-fledged **Python application** for managing library operations as part of a college project in **Software Engineering and Project Management**.
 
-### 📂 Task Management App  
-A productivity tool to efficiently manage tasks and schedules.  
-- Built with Python and Streamlit for an interactive interface.  
-- Includes features like task categorization, deadlines, and reminders.  
+### ✈️ Drone Bootcamp  
+Highlights from a 5-day bootcamp, featuring:
+- **Drone Basics** and Design.
+- Hands-on sessions on **Python Programming** and **Deep Learning**.
 
-### 📂 Auctionoasis *(In Progress)*  
-Developing a dynamic website designed to facilitate seamless online auctions.  
-- Focused on user-friendly design and robust backend functionality.  
-- Built using modern web technologies for scalability and performance.  
+---
+---
+
+## 🛠️ Skills and Tools  
+
+### Programming  
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)  
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=for-the-badge)  
+
+### Web Development  
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge)  
+
+### Data and Tools  
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=powerbi&logoColor=black&style=for-the-badge)  
+![EDA](https://img.shields.io/badge/-EDA-green?logo=data&logoColor=white&style=for-the-badge)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?logo=machinelearning&logoColor=white&style=for-the-badge)  
+
+### Concepts  
+![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-9cf?style=for-the-badge)  
+![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-lightgrey?style=for-the-badge)  
 
 ---
 
-## 🛠️ Skills and Tools
-
-### Programming
-- Python, Java, Streamlit
-
-### Web Development
-- HTML, CSS (Learning advanced concepts like **flexbox** and responsive design)
-
-### Data and Analysis
-- Power BI, EDA, Machine Learning  
-
-### Concepts
-- Software Engineering, Data Structures and Algorithms
-
----
-
-## 📬 Let's Connect!  
+## 📬 Let's Connect!
 
 - **LinkedIn**: [Yash Sakhareliya](https://linkedin.com/in/YashSakhareliya)  
 - **Email**: yash.sakhareliya@example.com  
