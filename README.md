@@ -30,7 +30,7 @@ Hi, I'm **Yash Sakhareliya**, an aspiring developer and tech enthusiast passiona
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=for-the-badge) ![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?logo=machinelearning&logoColor=white&style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-purple?style=for-the-badge)  
 
 ### Concepts  
-![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-lightgrey?style=for-the-badge)  
+![DSA](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-black?style=for-the-badge)  
 
 ---
 
