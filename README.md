@@ -64,7 +64,7 @@ Developing a dynamic website designed to facilitate seamless online auctions.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsakhareliya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=5hubhm&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yashsakhareliya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 📬 Let's Connect!  
