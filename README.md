@@ -59,10 +59,10 @@ Developing a dynamic website designed to facilitate seamless online auctions.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashsakhareliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashsakhareliya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsakhareliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=LearningML,PU_CODE_HACKATHON,Student_performance_indicator,PhishNet-Phishing-URL-Detection-System
-)
+![](https://github-readme-stats.vercel.app/api?username=yashsakhareliya&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Yash%27s%20GitHub%20Stats)
+<br/>
+![]([https://github-readme-streak-stats.herokuapp.com/?user=yashsakhareliya&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=YashSakhareliya&theme=dark&hide_border=false))<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashsakhareliya&icon=0&color=0)](https://visitcount.itsvg.in)
