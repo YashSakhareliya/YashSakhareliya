@@ -36,6 +36,11 @@ Hi, I'm **Yash Sakhareliya**, an aspiring developer and tech enthusiast passiona
 
 ## 💻 Key Projects
 
+### 📂 Auctionoasis
+Developing a dynamic website designed to facilitate seamless online auctions.  
+- Focused on user-friendly design and robust backend functionality.  
+- Built using modern web technologies for scalability and performance.
+
 ### 📂 Student Performance Indicator  
 A comprehensive application analyzing student data to predict academic performance.  
 - Leverages advanced Machine Learning techniques for predictions.  
@@ -50,11 +55,6 @@ A project focusing on identifying and classifying objects in images or videos.
 A productivity tool to efficiently manage tasks and schedules.  
 - Built with Python and Streamlit for an interactive interface.  
 - Includes features like task categorization, deadlines, and reminders.  
-
-### 📂 Auctionoasis *(In Progress)*  
-Developing a dynamic website designed to facilitate seamless online auctions.  
-- Focused on user-friendly design and robust backend functionality.  
-- Built using modern web technologies for scalability and performance.
 
 ---
 
