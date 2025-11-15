@@ -1,4 +1,10 @@
+<div align="center">
+  
 # 👋 Welcome to My GitHub Profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Yash+Sakhareliya!;Full+Stack+Developer+%7C+ML+Enthusiast;Passionate+about+Innovation+and+Technology!" alt="Typing SVG" />
+
+</div>
 
 Hi, I'm **Yash Sakhareliya**, an aspiring developer and tech enthusiast passionate about creating impactful projects and solving real-world problems through technology.  
 
@@ -58,20 +64,65 @@ A productivity tool to efficiently manage tasks and schedules.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashsakhareliya&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Yash%27s%20GitHub%20Stats)
-<br/>
-![]([https://github-readme-streak-stats.herokuapp.com/?user=yashsakhareliya&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=YashSakhareliya&theme=dark&hide_border=false))<br/>
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YashSakhareliya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashsakhareliya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashSakhareliya&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=Yash%27s%20GitHub%20Stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YashSakhareliya&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSakhareliya&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashSakhareliya&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=YashSakhareliya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 
-## 📬 Let's Connect!  
+## 📬 Let's Connect!
 
-- **LinkedIn**: [Yash Sakhareliya](https://linkedin.com/in/YashSakhareliya)  
-- **Email**: yash.sakhareliya@example.com  
-- **GitHub**: [Yash Sakhareliya](https://github.com/YashSakhareliya)  
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YashSakhareliya) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YashSakhareliya)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.sakhareliya@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to collaborations and opportunities!
 
 🌟 Feel free to explore my repositories and projects. Let's collaborate and create something amazing!
+
+</div>
